@@ -6,7 +6,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rameshracharla&show_icons=true)  
 
-![](https://komarev.com/ghpvc/?username=rameshracharla&color=yellow)
+![](https://komarev.com/ghpvc/?username=rameshracharla&color=67A2F2)
 <!---
 RameshRacharla/RameshRacharla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
